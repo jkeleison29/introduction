@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Joshua Kyrie Eleison
-- 👀 I’m interested in Software Engineering & UI/UX.
-
+- 👋 Hi, I’m Joshua Kyrie Eleison. Fresh Graduate with a Bachelor of Computer Science from Brawijaya University. I am focused on Software Engineering & UI/UX.
 - 📫 joshuakyrieeleison2@ymail.com
 
 <!---
