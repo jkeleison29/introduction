@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Joshua Kyrie Eleison. Fresh Graduate with a Bachelor of Computer Science from Brawijaya University. I am focused on Software Engineering & UI/UX.
+- 👋 Hi, My name is Joshua Kyrie Eleison. I Graduated from Brawijaya University, majoring in Informatics Engineering and focused on Software Engineering. I'm a highly motivated and confident person who is capable to work as an individual or in a team. I approach things from an open-minded perspective with excellent communication skills. I'm a fast learner person and being an adaptable person who could adjust to new environments easily. I really love to learn new things to improve my knowledge and skills to make me a better person.
 - 📫 joshuakyrieeleison2@ymail.com
 
 <!---
